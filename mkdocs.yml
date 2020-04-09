@@ -1,4 +1,5 @@
-..created today
+  configuration: mkdocs.yml
+  fail_on_warning: false
 Work Money Fun
 
 Visit https://workmoneyfun.com
