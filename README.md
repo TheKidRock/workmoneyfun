@@ -1,2 +1,2 @@
 # workmoneyfun
-<a href="https://workmoneyfun.com">Work Money Fun</a>
+<a href="https://www.workmoneyfun.com">Work Money Fun</a>
